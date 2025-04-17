@@ -22,7 +22,5 @@
   
   <p><i>Watch the snake eat my contributions!</i> 🍏</p>
   
-  <a href="https://github.com/Sha-330">
-    <small>View my GitHub Profile</small>
-  </a>
+
 </div>
