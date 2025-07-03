@@ -65,12 +65,12 @@
   
 </div>
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies
 
 <div align="center">
   
   <img src="https://github-profile-trophy.vercel.app/?username=Sha-330&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4"/>
-  
+  -->
 <!-- </div>
 
 ## 🔥 GitHub Streak
